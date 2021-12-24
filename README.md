@@ -2,6 +2,7 @@
 ### My name is Akhmad Fauzan Prayogi, you can call me Fauzan
 
 I’m currently on my 7th semester as a Computer Science student in Amikom University of Yogyakarta and learning Android Apps Development at Studi Independen Bersertifikat Dicoding X Kampus Merdeka.
+
 Reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi-921a11207/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
 
 <p align="left">
