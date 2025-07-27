@@ -6,9 +6,9 @@ I am currently as an Junior Android Developer at [Otten Coffee](https://www.link
 Reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi-921a11207/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
 
 <p align="left">
-<a href="https://github.com/hikizan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hikizan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hikizan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/prayogizan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prayogizan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prayogizan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!---
