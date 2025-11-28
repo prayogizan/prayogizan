@@ -3,7 +3,7 @@
 
 I am currently as an Junior Android Developer at [Otten Coffee](https://www.linkedin.com/company/otten-coffee/about/).
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi-921a11207/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
+Reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
 
 <p align="left">
 <a href="https://github.com/prayogizan">
