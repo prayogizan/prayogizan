@@ -1,9 +1,9 @@
 # 👋 Hi there
-### My name is Akhmad Fauzan Prayogi, you can call me Fauzan
 
-I am currently as an Android Developer at [Otten Coffee](https://www.linkedin.com/company/otten-coffee/about/).
+I am an Android Developer, committed to developing scalable applications while
+continuously improving my skills
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
 
 <p align="left">
 <a href="https://github.com/prayogizan">
