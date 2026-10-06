@@ -2,9 +2,9 @@
 
   <h1>Hey there, I'm Fauzan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-  <a href="https://github.com/prayogizan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Android+%26+Compose+Multiplatform;Engineering+Mobile+at+Otten+Coffee+☕;Building+Juang+%26+Modern+Kotlin+Apps;Turning+single-origin+beans+into+clean+code" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/prayogizan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Android+%26+Compose+Multiplatform;Engineering+Mobile+at+Otten+Coffee;Building+Juang+%26+Modern+Kotlin+Apps;Turning+single-origin+beans+into+clean+code" alt="Typing SVG" />
+</a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/akhmad-fauzan-prayogi/"><img src="https://img.shields.io/badge/LinkedIn-Akhmad%20Fauzan%20Prayogi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -37,14 +37,14 @@ Day-to-day, I engineer mobile experiences at **[Otten Coffee](https://ottencoffe
 ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,apple,gradle,git,githubactions,figma,sqlite" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,git,githubactions,sqlite" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Mobile & Multiplatform** | [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose) [![CMP](https://img.shields.io/badge/Compose_Multiplatform-000000?style=flat-square&logo=kotlin&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/) [![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) |
+| **Mobile & Multiplatform** | [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose) [![CMP](https://img.shields.io/badge/Compose_Multiplatform-000000?style=flat-square&logo=kotlin&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/) [![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) |
 | **Architecture & Data** | [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-23272F?style=flat-square)](https://blog.cleancoder.com/) [![MVI/MVVM](https://img.shields.io/badge/MVI_%2F_MVVM-374151?style=flat-square)](https://developer.android.com/) [![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=jetbrains&logoColor=white)](https://ktor.io/) [![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat-square&logo=square&logoColor=white)](https://square.github.io/retrofit/) [![SQLDelight](https://img.shields.io/badge/SQLDelight-4E5D6C?style=flat-square&logo=sqlite&logoColor=white)](https://cashapp.github.io/sqldelight/) [![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/) [![Koin](https://img.shields.io/badge/Koin-F43F5E?style=flat-square&logo=android&logoColor=white)](https://insert-koin.io/) |
 | **Workflow & Tooling** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/) |
 
