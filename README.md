@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey there, I'm Fauzan 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1> 
+<h1>Hey there, I'm Fauzan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1> 
 
 
 **Mobile Engineer • Android & Compose Multiplatform • Coffee Enthusiast**
