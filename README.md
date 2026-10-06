@@ -1,25 +1,73 @@
-# 👋 Hi there
+<div align="center">
 
-I am an Android Developer, committed to developing scalable applications while
-continuously improving my skills
+<h1>Hey there, I'm Fauzan 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1> 
 
-Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi/) | [Instagram](https://www.instagram.com/fauzaanprayogi/)
 
-<p align="left">
-<a href="https://github.com/prayogizan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prayogizan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prayogizan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+**Mobile Engineer • Android & Compose Multiplatform • Coffee Enthusiast**
+
+*Turning single-origin beans into smooth mobile apps ☕*
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhmad-fauzan-prayogi/"><img src="https://img.shields.io/badge/LinkedIn-Akhmad%20Fauzan%20Prayogi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mobiledev.id/@fauzan"><img src="https://img.shields.io/badge/MobileDev.id-@fauzan-0284C7?style=flat-square&logo=android&logoColor=white" alt="MobileDev.id" /></a>
+  <a href="https://www.instagram.com/fauzaanprayogi/"><img src="https://img.shields.io/badge/Instagram-@fauzaanprayogi-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/prayogizan"><img src="https://img.shields.io/badge/GitHub-prayogizan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-<!---
-Hi, I’m @hikizan
-- 👀 I’m interested in Mobile Development and Machine Learning
-- 🌱 I’m currently learning Android Apps Development at Studi Independen Bersertifikat Dicoding X Kampus Merdeka
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  --->
+</div>
 
-<!---
-hikizan/hikizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### A Little Bit About Me
+
+I’m an Android developer who genuinely enjoys building apps that feel snappy, intuitive, and clean under the hood. 
+
+Day-to-day, I engineer mobile experiences at **[Otten Coffee](https://ottencoffee.co.id)**. When I’m off the clock, I’m usually messing around with **Compose Multiplatform (CMP)** to target both Android & iOS, playing with **agentic AI workflows** to speed up development, or tweaking my pour-over grind size.
+
+---
+
+### What I’m Up To Lately
+
+- ☕ **At Otten:** Crafting features for our mobile app and making the coffee shopping experience as smooth as possible.
+- 📱 **Multiplatform Experiments:** Pushing code beyond just Android with Kotlin Multiplatform & Compose Multiplatform.
+- 🤖 **AI & Developer Productivity:** Testing out LLMs, custom agent skills, and prompt workflows to automate the repetitive stuff.
+- 🛠️ **Side Projects:** Always building something small to learn new things or scratch an itch.
+
+---
+
+### Things I Like Working With
+
+- **Mobile & Core:** Kotlin, Jetpack Compose, Compose Multiplatform (CMP), Coroutines & Flow
+- **Architecture & Stack:** Clean Architecture, MVI / MVVM, Ktor, Retrofit, Room, SQLDelight, Koin
+- **Workflow & Tools:** Git, GitHub Actions, Gradle
+
+---
+
+### Some Things I’ve Built
+
+- **[Juang (Jejak Uang)](https://play.google.com/store/apps/details?id=com.juang.app)** ([Google Play](https://play.google.com/store/apps/details?id=com.juang.app)) — A personal finance and pocket tracking app built with **Compose Multiplatform (CMP)** for Android & iOS with shared UI, featuring a modern liquid-glass design system, MVI architecture, and offline-first SQLDelight.
+- **[Me-Ngaji](https://github.com/prayogizan/Me-Ngaji)** — A modern cross-platform Quran & Islamic lifestyle app built with Compose Multiplatform (one shared Kotlin codebase running on both Android & iOS).
+- **[IMIT](https://github.com/prayogizan/IMIT)** — An Android client for browsing, streaming, and downloading MIT OpenCourseWare lectures via Internet Archive.
+- **[Zangu](https://github.com/prayogizan/Zangu)** — A lightweight personal budgeting app to track allocations and everyday expenses.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/prayogizan">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prayogizan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Fauzan's GitHub Stats" />
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prayogizan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### Let’s Chat!
+
+Always down to talk about mobile architecture, Kotlin quirks, cool AI experiments, or simply where to find the best coffee beans.
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/akhmad-fauzan-prayogi/)
+- 🌐 Check out my profile & writes on [mobiledev.id/@fauzan](https://mobiledev.id/@fauzan)
+- 📷 Drop by on [Instagram](https://www.instagram.com/fauzaanprayogi/)
+- ☕ Or open an issue / PR if you want to collaborate!
